@@ -18,6 +18,14 @@
   </p>
 </p> 
 
+<p align="center">&#8192;</p>
+<p align="center">&#8192;</p>
+<p align="center">&#8192;</p>
+<p align="center">&#8192;</p>
+<p align="center">&#8192;</p>
+<p align="center">&#8192;</p>
+<p align="center">&#8192;</p>
+
 ## 🚀 Hackatons
 
 <p align="center">
