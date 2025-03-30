@@ -6,5 +6,5 @@
 - E-mail: [anonimmail123@bk.ru](mailto:anonimmail123@bk.ru)
 - Telegram: [t.me/DaniсhVolk](https://t.me/icehookies)
 
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qwam&layout=compact&hide_border=true&theme=nord&langs_count=10&exclude_repo=agrosmart&hide=typescript)
+[![Top Langs](https://github.com/qwamm/api/top-langs/?username=qwamm)](https://github.com/anuraghazra/github-readme-stats)
 </h4>
