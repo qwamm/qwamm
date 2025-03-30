@@ -1,7 +1,7 @@
-# Hello there, welcome to my GitHub page! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Hello, I'm Ivan Afonin <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-MEPhI student, Python/JS dev
-
+- 🎓 Computer Science [MEPHI](https://en.wikipedia.org/wiki/National_Research_Nuclear_University_MEPhI_(Moscow_Engineering_Physics_Institute)) student
+- 💻 Fullstack Python/JS dev with 1 year experience
 <h4 align "center">
 
 ## 💻 My study projects
