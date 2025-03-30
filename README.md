@@ -40,8 +40,6 @@
 <p align="center">&#8192;</p>
 <p align="center">&#8192;</p>
 <p align="center">&#8192;</p>
-<p align="center">&#8192;</p>
-<p align="center">&#8192;</p>
 
 ## 👨‍💻 Languages and Tools
 
