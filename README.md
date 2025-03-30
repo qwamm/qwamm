@@ -18,6 +18,23 @@
 
 <!-- last activity section -->
 
+## 🚀 Hackatons
+
+<!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <p style="widht: 100%;" align="center">
+    <a href="https://github.com/qwamm/MDLIV_Window_of_knowledge"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=qwamm&repo=MDLIV_Window_of_knowledge&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/qwamm/mdliv_front"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=qwamm&repo=mdliv_front&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+  </p>
+</p> 
+
+<p align="center">&#8192;</p>
+<p align="center">&#8192;</p>
+<p align="center">&#8192;</p>
+<p align="center">&#8192;</p>
+
+<!-- last activity section -->
+
 ## 👨‍💻 Languages and Tools
 
 [![JavaScript](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/qwamm)
