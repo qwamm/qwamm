@@ -1,6 +1,17 @@
 <h3 align="center">MEPhI student, Python/JS dev 🇷🇺</h3>
 <h4 align "center">
 
+## 📘 My top projects
+
+<!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <p style="widht: 100%;" align="center">
+    <a href="https://github.com/qwamm/automata_theory"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=qwamm&repo=automata_theory&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/qwamm/summoning_masters"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=qwamm&repo=summoning_masters&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+</p>
+
+<!-- last activity section -->
+
 ## 👨‍💻 Languages and Tools
 
 [![JavaScript](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/qwamm)
