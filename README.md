@@ -13,7 +13,7 @@
   </p>
   <p align="center">&#8192;</p>
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/qwamm/kgioi_labs"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=qwamm&repo=kgioi_labs&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/qwamm/kgioi"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=qwamm&repo=kgioi&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
     <a href="https://github.com/qwamm/demo_exam"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=qwamm&repo=demo_exam&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
   </p>
 </p> 
