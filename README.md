@@ -22,7 +22,7 @@
 ## 📬 Get in Touch
 
 - E-mail: [anonimmail123@bk.ru](mailto:anonimmail123@bk.ru)
-- Telegram: [t.me/DaniсhVolk](https://t.me/icehookies)
+- Telegram: [t.me/icehookies](https://t.me/icehookies)
 
 ![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwamm&layout=compact&hide_border=true&theme=nord&langs_count=10&exclude_repo=DataScience)
 </h4>
