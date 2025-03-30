@@ -1,8 +1,9 @@
-# Hello there, welcome to my github page! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Hello there, welcome to my GitHub page! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">MEPhI student, Python/JS dev 🇷🇺</h3>
+
 <h4 align "center">
 
-## 📘 My top projects
+## 💻 My study projects
 
 <p align="center">
   <p style="widht: 100%;" align="center">
@@ -15,21 +16,6 @@
 <p align="center">&#8192;</p>
 <p align="center">&#8192;</p>
 <p align="center">&#8192;</p>
-
-## 🚀 Hackatons
-
-<p align="center">
-  <p style="widht: 100%;" align="center">
-    <a href="https://github.com/qwamm/MDLIV_Window_of_knowledge"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=qwamm&repo=MDLIV_Window_of_knowledge&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/qwamm/mdliv_front"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=qwamm&repo=mdliv_front&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-  </p>
-</p> 
-
-<p align="center">&#8192;</p>
-<p align="center">&#8192;</p>
-<p align="center">&#8192;</p>
-<p align="center">&#8192;</p>
-
 
 ## 👨‍💻 Languages and Tools
 
